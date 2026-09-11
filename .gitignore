@@ -1,0 +1,16 @@
+# Go build files
+*.exe
+*.test
+*.out
+
+# Local app data
+uptimeguard-data.json
+uptime-report.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
